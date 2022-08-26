@@ -4,9 +4,58 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Document</title>
+    <title>StudyJam ReactJs Pertemuan ke-1</title>
+    <link rel="stylesheet" href="CSS/index.css" />
   </head>
   <body>
-    <h1>Hello World</h1>
+    <header class="container">
+      <h1>Tugas Pertama StudyJam ReactJS✨</h1>
+    </header>
+    <nav class="container">
+      <ul>
+        <a href=""><li>Home</li></a>
+        <a href=""><li>About</li></a>
+        <a href=""><li>Contact</li></a>
+      </ul>
+    </nav>
+    <main class="container">
+      <p class="summary">
+        Pembahasan di pertemuan pertama ini membahas seputar dasar-dasar HTML, CSS dan pengenalan terhadap code editor dan juga browser. Mentor menjelaskan secara singkat apa itu Front-end dev, lalu lanjut ke HTML, dan juga CSS.
+      </p>
+      <img src="assets/img/image.1.jpg" alt="foto-unsplash" />
+      <form class="text-fields" action="">
+        <label for="name">Nama:</label>
+        <input type="text" id="name" name="name" placeholder="Masukan nama" />
+      </form>
+      <form class="radio-button" action="">
+        <p>Pilih hobi kamu:</p>
+        <div class="list-hobbies">
+          <div>
+            <input type="radio" id="koding" name="hobbies" value="Koding" />
+            <label for="koding">Koding</label>
+          </div>
+          <div>
+            <input type="radio" id="gaming" name="hobbies" value="Gaming" />
+            <label for="gaming">Gaming</label>
+          </div>
+          <div>
+            <input type="radio" id="tidur" name="hobbies" value="Tidur" />
+            <label for="tidur">Tidur</label>
+          </div>
+        </div>
+      </form>
+      <form action="" class="input-date">
+        <label for="date">Masukan tanggal lahir:</label><br />
+        <input type="date" name="date" id="date" />
+      </form>
+      <form action="" class="text-area">
+        <label for="text-area">Ceritakan tentang diri Anda:</label><br />
+        <textarea maxlength="500" class="desribe-self" rows="4" cols="50" for="text-area" placeholder="Maksimal 500 karakter..."></textarea>
+      </form>
+      <button type="submit" class="button-primary">Kirim</button>
+    </main>
+    <footer class="container">
+      <small>&#169; Fasha Fadillah</small>
+    </footer>
   </body>
 </html>
