@@ -19,7 +19,7 @@ Ada beberapa istilah di dalam ranah Front-end Dev seperti Front of the Front, da
 - Handle HTML dan CSS. Javascript sebagai interaksi
 - Optimalkan Image, CSS
 - Responsive Web
-- Merubah desain ke kode
+- Mengubah desain ke kode
 - Browser compatibility CSS
 
 
