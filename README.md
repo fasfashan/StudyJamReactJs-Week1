@@ -1,14 +1,11 @@
 # StudyJamReactJs-Week1
 >Berikut adalah ringkasan di pertemuan pertama StudyJam ReactJS bersama Nest Academy
-# StudyJamReactJs-Week2
->Berikut adalah ringkasan di pertemuan kedua StudyJam ReactJS bersama Nest Academy
+
 
 Pembahasan di pertemuan pertama ini membahas seputar dasar-dasar HTML, CSS dan pengenalan terhadap code editor dan juga browser. Mentor menjelaskan secara singkat apa itu Front-end dev, lalu lanjut ke HTML, dan juga CSS.
-Pembahasan di pertemuan pertama ini membahas tentang modern layout menggunakan flexbox dan juga grid
 
 
 ## 1️⃣Mengenal Front-end Dev
-## 1️⃣Flexbox
 
 Seorang Front-End Web Developer adalah Software Developer yang bertanggung jawab untuk merancang dan membangun berbagai aplikasi web secara responsif, interaktif, dan juga *user friendly*. Seorang Front-End Web Developer memiliki peranan besar dalam pengembangan aplikasi web karena bertanggung jawab langsung kepada pengalaman pengguna. —Dicoding
 
@@ -17,7 +14,6 @@ Seorang Front-End Web Developer adalah Software Developer yang bertanggung jawab
 - Browser (Firefox Dev, Chrome, etc)
 
 Ada beberapa istilah di dalam ranah Front-end Dev seperti Front of the Front, dan juga Back of the Front. Tapi istilah ini belum terlalu dikenal di Indonesia.
-## 2️⃣Grid
 
 ### Front of the Front
 - Handle HTML dan CSS. Javascript sebagai interaksi
